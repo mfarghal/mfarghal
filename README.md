@@ -2,8 +2,8 @@
 ## I'm an Mobile Developer 📱 💻 🥸
 
 ## About Me 🔍
-- 📱 Mobile Developer / Freelancer
-- 🏢 Founder of [Digitizer Community](https://digitizercommunity.com/)
+- 📱   Mobile Developer / Freelancer
+- 🏢   Founder of [Digitizer Community](https://digitizercommunity.com/)
 
 
 <!--
