@@ -1,4 +1,9 @@
-### Hi there, I'm Mohamed Farghal 🥸
+##### Hi there 👋🏻 , 
+## I'm an Mobile Developer 📱 💻 🥸
+
+## About Me 🔍
+- 📱 Mobile Developer / Freelancer
+
 <!--
 **mfarghal/mfarghal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
+
+⭐️ Thank you ⭐️
