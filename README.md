@@ -5,7 +5,6 @@
 ## About Me 🔍
 
 - 📱 Mobile Developer / Freelancer
-- 🏢   Founder of [Digitizer Community](https://digitizercommunity.com/)
 
 <!--
 **mfarghal/mfarghal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
