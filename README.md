@@ -1,4 +1,6 @@
 ##### Hi there 👋🏻
+👯 I’m looking to collaborate on Android, IOS & Flutter
+
 
 ## I'm an Mobile Developer 📱 💻 🥸
 
